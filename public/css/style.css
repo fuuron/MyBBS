@@ -19,3 +19,7 @@ li {
 .back-link {
     font-size: 14px;
 }
+
+p {
+    line-height: 1.6;
+}
